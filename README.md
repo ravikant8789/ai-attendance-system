@@ -56,8 +56,8 @@ An enterprise-grade, contactless **AI-Powered Biometric Attendance & Workplace M
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ai-attendance-project-app.git
-cd ai-attendance-project-app
+git clone https://github.com/ravikant8789/ai-attendance-system.git
+cd ai-attendance-system
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -155,6 +155,7 @@ ai-attendance-project-app/
 ## 👨‍💻 Author
 
 Created with ❤️ by **Ravikant Kumar**
+- GitHub: [@ravikant8789](https://github.com/ravikant8789)
 
 ---
 
